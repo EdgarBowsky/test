@@ -1,5 +1,5 @@
-(function(){var x=localStorage.getItem('showed-signup-modal');if(x){return;}
-localStorage.setItem('showed-signup-modal','true');var modal=document.createElement('div');modal.innerHTML=`
+(function(){var x=localStorage.getItem('showed-signup-modal-2');if(x){return;}
+localStorage.setItem('showed-signup-modal-2','true');var modal=document.createElement('div');modal.innerHTML=`
   <style>
   .singupmodal {
     padding: 175px;
